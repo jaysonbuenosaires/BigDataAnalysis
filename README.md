@@ -2,9 +2,9 @@
 
 **Laboratory Activity #1**
 * **Author:** Jayson P. Buenosaires,
-*             Carelyn Macabuhay,
-*             Aron Jay Formento,
-*             Rowena Bornilla
+             Carelyn Macabuhay,
+             Aron Jay Formento,
+             Rowena Bornilla
 * **Date:** February 14, 2026
 * **Subject:** Big Data / Apache Spark
 
