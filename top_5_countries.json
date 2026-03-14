@@ -1,0 +1,22 @@
+[
+    {
+        "country":"Lesotho",
+        "avg_suicide_rate":47.6014275721
+    },
+    {
+        "country":"Eswatini",
+        "avg_suicide_rate":40.4908189766
+    },
+    {
+        "country":"Guyana",
+        "avg_suicide_rate":35.4933517047
+    },
+    {
+        "country":"Zimbabwe",
+        "avg_suicide_rate":34.8087076714
+    },
+    {
+        "country":"Eritrea",
+        "avg_suicide_rate":29.3384537475
+    }
+]
